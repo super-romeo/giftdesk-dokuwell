@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://giftdesk.dokuwell.com/sitemap.xml
